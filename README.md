@@ -249,6 +249,10 @@
 
 * Борис Орехов [Парадоксы парадигмы: концептуальные и практические трудности цифровой гуманитарной магистратуры](https://www.youtube.com/watch?v=ZfXqvIzl5fo)
 
+#### Данные
+
+* Boris Orekhov. (2024). [incoming-students-ma-dh-hse-university](https://huggingface.co/datasets/nevmenandr/incoming-students-ma-dh-hse-university) (Revision fd793c9). Hugging Face. https://doi.org/10.57967/hf/2313
+
 ## Музейные данные
 
 * Глазунов Е. В., Орехов Б. В. [Унификация данных музейного Госкаталога РФ](https://www.intelsiberia.com/%D0%BD%D0%BE%D0%BC%D0%B5%D1%80-2020-4-3) // Сибирский антропологический журнал. 2020. Т. 4. № 3 (09). С. 154–168.
