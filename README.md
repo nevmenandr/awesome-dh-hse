@@ -79,6 +79,8 @@
 ## Тематическое моделирование
 
 * Лейбов Р. Г., Орехов Б. В. [Между политикой и поэтикой: топика Крыма в современной русскоязычной наивной лирике](https://cyberleninka.ru/article/n/mezhdu-politikoy-i-poetikoy-topika-kryma-v-sovremennoy-russkoyazychnoy-naivnoy-lirike) // Шаги/Steps. Т. 8. 2022. № 2. С. 205–232.
+* Орехов Б. В. [16.2. Тематическое моделирование и семантический ореол метра](http://nevmenandr.net/personalia/bash_topics.pdf) // Башкирский стих XX века. Корпусное исследование. СПб.: Алетейя, 2019. С. 275–283.
+* Šeļa A., Orekhov B., Leibov R. [Weak Genres: Modeling Association Between Poetic Meter and Meaning in Russian Poetry](https://ceur-ws.org/Vol-2723/long35.pdf) // Proceedings of the Workshop on Computational Humanities Research (CHR 2020): Amsterdam, the Netherlands, November 18-20, 2020. CEUR-WS, P. 12–31.
 
 #### Видео
 
@@ -90,7 +92,20 @@
 
 ## Векторные модели
 
+* Орехов Б. В. [Индивидуальная семантика Л. Н. Толстого в свете векторных моделей](https://elib.spbstu.ru/dl/2/j24-37.pdf/info) // Terra Linguistica. 2023. Т. 14. № 4. С. 119–129.
+* Орехов Б. В. [16.1. Дистрибутивно-семантическая модель башкирской поэзии](http://nevmenandr.net/personalia/bash_distrib.pdf) // Башкирский стих XX века. Корпусное исследование. СПб.: Алетейя, 2019. С. 271–275.
+* Орехов Б. В. [Стихи и проза через призму дистрибутивной семантики](http://nevmenandr.net/personalia/poetW2V.pdf) // Острова любви БорФеда: Сборник к 90-летию Бориса Федоровича Егорова / ИРЛИ РАН; СПбИИ РАН; Союз писателей Санкт-Петербурга; Ред.;сост. А. П. Дмитриев и П. С. Глушаков. СПб.: Издательство «Росток», 2016. С. 652–655.
+
+#### Популярные выступления
+
+* Борис Орехов [Векторные романы](https://nevmenandr.github.io/novel2vec/)
+
 ## Цифровые издания
+
+
+#### Видео
+
+* Анастасия Бонч-Осмоловская [Слово Толстого: путеводитель по наследию автора на основе полного собрания сочинений](https://www.youtube.com/watch?v=xc0tgPxVisQ)
 
 ## Культуромика
 
