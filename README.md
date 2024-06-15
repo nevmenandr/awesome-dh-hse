@@ -15,6 +15,7 @@
 ## Общие вопросы Digital Humanities
 
 * [Глава 1. Digital humanities: (само)определение, обзор направлений](https://bik.sfu-kras.ru/ft/LIB2/ELIB/b71/free/i-494468.pdf) (Б. В. Орехов, А. Ю. Володин) // Цифровые гуманитарные исследования: монография / А. Б. Антопольский, А. А. Бонч-­Осмоловская, Л. И. Бородкин [и др.]. Красноярск: Сиб. федер. ун-­т, 2023. С. 5–20.
+* Северина Е. М., Бонч-Осмоловская А. А., Бец Ю. В., Флягина М. В. [Цифровые гуманитарные проекты: проблемы междисциплинарности](https://cyberleninka.ru/article/n/tsifrovye-gumanitarnye-proekty-praktiki-mezhdistsiplinarnosti) // Гуманитарные и социальные науки. 2021. Т. 88. № 5. С. 121-129.
 * Kizhner I., Terras M., Orekhov B., Manovich L., Kim I., Rumyantsev M., Bonch-Osmolovskaya A. [The History and Context of the Digital Humanities in Russia](http://nevmenandr.net/personalia/GlobalDDH.pdf) // Global Debates in the Digital Humanities / ed. Domenico Fiormonte, Paola Ricaurte, Sukanta Chaudhuri. University of Minnesota Press, 2022. P. 55–70.
 
 #### Видео
@@ -22,6 +23,8 @@
 * Борис Орехов «[Digital Humanities в общенаучном контексте](https://www.youtube.com/watch?v=-0GTkiUr9Ys)»
 * Ольга Алиева, Борис Орехов [Цифровые инструменты и методы: в чем их польза и как им обучить гуманитария?](https://vk.com/video-211800158_456239307)
 * Анастасия Бонч-Осмоловская, Борис Орехов [Презентация коллективной монографии Цифровые гуманитарные исследования](https://www.youtube.com/watch?v=z5Hiai8h9bk)
+* Анастасия Бонч-Осмоловская [Что нас раздражает в DH и как не потерять самообладания](https://www.youtube.com/watch?v=mIuUP1liKf0)
+* Анастасия Бонч-Осмоловская [Цифровые технологии в гуманитарных науках](https://www.youtube.com/watch?v=fhup-ZBW6tg)
 * Борис Орехов [Чем может и чем не может наука о данных помочь науке о литературе](https://www.youtube.com/watch?v=o96OzsKqIyY)
 
 #### Популярные выступления
@@ -44,10 +47,12 @@
 * Орехов Б. В. [О перспективах филологического корпуса](http://nevmenandr.net/personalia/persp.pdf) // Труды Отделения историко-филологических наук РАН. 2015. М.: Наука, 2016. С. 147–155.
 * Орехов Б. В. [Еще раз об исследовательском потенциале поэтического корпуса: метр, лексика, формула](https://trudy.ruslang.ru/ru/archive/2015-3/449-463) // Труды Института русского языка им. В. В. Виноградова. 2015. Вып. 6. С. 449–463.
 * Орехов Б. В. [«Проблеск» Ф. И. Тютчева в ретроспективе Корпуса. Очерк корпусной поэтики](http://nevmenandr.net/personalia/problesk.pdf) // Корпусный анализ русского стиха: Сборник научных статей. Вып. 2 / Отв ред. В. А. Плунгян, Л. Л. Шестакова. М: Издательский центр «Азбуковник», 2014. С. 305–319.
+* Bonch-Osmolovskaya A., Orekhov B. [Distant reading of naïve poetry: corpora comparison as research methodology](http://nevmenandr.net/personalia/naive-dh.pdf) // Digital Humanities 2014. Conference Abstracts.
 * Skorinkin D., Bonch-Osmolovskaya A. [Text mining War and Peace: Automatic extraction of character traits from literary pieces](https://academic.oup.com/dsh/article/32/suppl_1/i17/2755123?login=false) // Digital Scholarship in the Humanities. 2016
 
 #### Видео
 
+* Анастасия Бонч-Осмоловская [Национальный корпус русского языка как инструмент школьного проекта](https://vk.com/video-20723959_456239285)
 * Борис Орехов [Параллельный древнегреческо-русский корпус: как и зачем?](https://vk.com/video-211800158_456239235)
 * Борис Орехов [Корпусный анализ стиха](https://www.youtube.com/watch?v=L7RR3tD_B-k)
 * Борис Орехов [Русский метод в стиховедении в контексте Digital Humanities](https://www.youtube.com/watch?v=Vu4GFymJoF8)
@@ -70,6 +75,7 @@
 
 * Ольга Алиева [Стилометрия](https://www.youtube.com/watch?v=EoyVIDwjsuE)
 * Борис Орехов [Delta Барроуза и проблема авторства «Тихого Дона»](https://www.youtube.com/watch?v=q9ftg1U2zLk&t=16797)
+* Борис Орехов [Современный метод компьютерной атрибуции текстов: надёжность, ограничения, результаты](https://www.youtube.com/watch?v=dctOHDggv1M)
 
 #### Популярные выступления
 
@@ -96,18 +102,35 @@
 * Орехов Б. В. [16.1. Дистрибутивно-семантическая модель башкирской поэзии](http://nevmenandr.net/personalia/bash_distrib.pdf) // Башкирский стих XX века. Корпусное исследование. СПб.: Алетейя, 2019. С. 271–275.
 * Орехов Б. В. [Стихи и проза через призму дистрибутивной семантики](http://nevmenandr.net/personalia/poetW2V.pdf) // Острова любви БорФеда: Сборник к 90-летию Бориса Федоровича Егорова / ИРЛИ РАН; СПбИИ РАН; Союз писателей Санкт-Петербурга; Ред.;сост. А. П. Дмитриев и П. С. Глушаков. СПб.: Издательство «Росток», 2016. С. 652–655.
 
+#### Видео
+
+* [Семантическая карта башкирского языка](https://www.youtube.com/watch?v=Lc5fbZCX99E)
+
 #### Популярные выступления
 
 * Борис Орехов [Векторные романы](https://nevmenandr.github.io/novel2vec/)
 
 ## Цифровые издания
 
+* Бонч-Осмоловская А., Колбасов М., Орехов Б., Павлова И., Скоринкин Д. [Семантическое издание текстов Л. Н. Толстого: от текста к онтологии](https://journals.openedition.org/napis/1413) // Napis. XXIV. 2018. S. 381–391
+* Галлямов А. А., Орехов Б. В. [Об электронном научном издании «Фольклорный архив Башкирского государственного университета»](https://history.rsuh.ru/jour/article/view/249/250) // Вестник РГГУ. Серия «История. Филология. Культурология. Востоковедение». 2016. № 12. С. 140–149.
+* Северина Е. М., Бонч-Осмоловская А. А., Кудин А. М. [Цифровые филологические практики: проект «Chekhov Digital»](https://cyberleninka.ru/article/n/tsifrovye-filologicheskie-praktiki-proekt-chekhov-digital) // Актуальные проблемы филологии и педагогической лингвистики. 2022. № 2. С. 153-165.
+* Gronas M., Orekhov B. [Что такое семантическое издание и почему в будущем все издания станут семантическими?](http://nevmenandr.net/personalia/9781618117786_gronas_orekhov.pdf) // A/Z: Essays in honor of Alexander Zholkovsky / edited by Dennis Ioffe, Marcus Levitt, Joe Peschio, and Igor Pilshchikov. Boston: Academic Studies Press, 2018. С. 246–268.
+*  Bonch-Osmolovskaya A., Skorinkin D., Pavlova I., Kolbasov M., Orekhov B. [Tolstoy semanticized: Constructing a digital edition for knowledge discover](https://www.sciencedirect.com/science/article/abs/pii/S1570826818300635) // Journal of Web Semantics. 2019.
+*  Bonch-Osmolovskaya A. A., Kolbasov M. [Tolstoy digital: Mining biographical data in literary heritage editions](https://ceur-ws.org/Vol-1399/paper8.pdf) // 1st Conference on Biographical Data in a Digital World 2015, BD 2015; Amsterdam; Netherlands; 9 April 2015. Amsterdam: CEUR-WS.org, 2015. P. 48–52.
+* Orekhov B., Tolstoy F. [Textograf: A Web Application for Manuscript Digitization](https://dh2017.adho.org/abstracts/602/602.pdf) // Digital Humanities 2017. Conference Abstracts, 2017. P. 772–773.
+* Skorinkin D., Bonch-Osmolovskaya A. A. [Automatic semantic tagging of Leo Tolstoy’s works](https://dh-abstracts.library.virginia.edu/works/2185) // DH 2015 Global Digital Humanities Conference Abstracts, 2015.
 
 #### Видео
 
 * Анастасия Бонч-Осмоловская [Слово Толстого: путеводитель по наследию автора на основе полного собрания сочинений](https://www.youtube.com/watch?v=xc0tgPxVisQ)
+* Анастасия Бонч-Осмоловская [Цифровые издания и семантическая разметка](https://www.youtube.com/watch?v=g_jwG6KhsGQ)
 
 ## Культуромика
+
+* Глава 4. [Культуромика: исследование клуьтуры и языка с помощью текстовых данных](https://bik.sfu-kras.ru/ft/LIB2/ELIB/b71/free/i-494468.pdf) (А. А. Бонч-Осмоловская) // Цифровые гуманитарные исследования: монография / А. Б. Антопольский, А. А. Бонч-­Осмоловская, Л. И. Бородкин [и др.]. Красноярск: Сиб. федер. ун-­т, 2023. С. 57–99.
+* Бонч-Осмоловская А. А. [Имена времени: эпитеты десятилетий в Национальном корпусе русского языка как проекция культурной памяти](https://cyberleninka.ru/article/n/imena-vremeni-epitety-desyatiletiy-v-natsionalnom-korpuse-russkogo-yazyka-kak-proektsiya-kulturnoy-pamyati) // Шаги/Steps. 2018. № 4. С. 115–146.
+* Бонч-Осмоловская А. А. [Культуромика в национальном корпусе русского языка, к постановке задачи: три века русских дорог](https://trudy.ruslang.ru/ru/archive/2015-3/605-640) // Труды института русского языка им. В.В. Виноградова. 2015. Т. 4. № 6. С. 605–641.
 
 #### Видео
 
@@ -119,17 +142,27 @@
 
 ## Сетевой анализ
 
+
+
 ## Python
 
-* Орехов Б. В. [Python](https://okna.hse.ru/news/218099432.html) // Окна академического роста. 12.4.2018
 * Орехов Б. В. [Стихи в программном коде: современный опыт и методика анализа](http://nevmenandr.net/personalia/21.pdf) // Критика и семиотика. 2015. № 1. С. 377–389.
 
+#### Популярные выступления
+
+* Орехов Б. В. [Python](https://okna.hse.ru/news/218099432.html) // Окна академического роста. 12.4.2018
+
 ## Машинное обучение
+
+Anastasia Bonch-Osmolovskaya, Elena Sidorova, Daniil Skorinkin. Verbal Identity of a Fictional Character: a Quantitative Study with a Machine Learning Experiment, in: Digital Humanities 2016. Conference Abstracts (Jagiellonian University & Pedagogical University, Kraków, 11–16 July 2016). Kraków : , 2016. P. 747-749.
 
 ## Общие вопросы искусственного интеллекта
 
 ## Частные вопросы текстовой генерации
 
 ## Геоинформационные системы в гуманитарной сфере
+
+
+*  Geography Of Russian Poetry: Countries And Cities Inside The Poetic World // Digital Humanities 2016. Conference Abstracts. Kraków, 2016. — P. 830–832.
 
 ## Музейные данные
