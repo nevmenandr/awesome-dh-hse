@@ -64,7 +64,7 @@
 ## Стилометрия и атрибуция
 
 * Алиева О. В. [Delta Берроуза для древнегреческих авторов: опыт применения](http://doi.org/10.25205/1995-4328-2022-16-2-693-705) // Schole. Философское антиковедение и классическая традиция. 2022. Т. 16. № 2. С. 693-705
-* Алиева О. В. [Опыт измерения стилистической однородности методом Delta на материале Платоновского корпуса](http://doi.org/10.53084/22209050_2022_25_19) // Аристей. Aristeas: Вестник классической филологии и античной истории. 2022. Т. 25. С. 19-37.
+* Алиева О. В. [Опыт измерения стилистической однородности методом Delta на материале Платоновского корпуса](http://doi.org/10.53084/22209050_2022_25_19) // Аристей. Aristeas: Вестник классической филологии и античной истории. 2022. Т. XXV. С. 19–37.
 * Великанова Н. П., Орехов Б. В. [Цифровая текстология: атрибуция текста на примере романа М. А. Шолохова «Тихий Дон»](http://nevmenandr.net/personalia/QuietDon.pdf) // Мир Шолохова. Научно-просветительский общенациональный журнал. — 2019. № 1. С. 70–82.
 * Орехов Б. В. [Текст и перевод Владимира Набокова через призму стилеметрии](http://nevmenandr.net/personalia/nabokov_transl.pdf) // Новый филологический вестник. 2021. № 3. С. 200–213.
 * Орехов Б. В. [«Илиада» Е.И. Кострова и «Илиада» А. И. Любжина: стилеметрический аспект](http://nevmenandr.net/personalia/aristeas.pdf) // Аристей. Aristeas: Вестник классической филологии и античной истории. 2020. Т. XXI. С. 282–296.
@@ -142,7 +142,20 @@
 
 ## Сетевой анализ
 
+* Бонч-Осмоловская А. А., Нестеренко Л. В. [Сети как инструмент поиска и находок в мультиязычных параллельных корпусах](https://linghub.ru/eureka/static/files/%D0%91%D0%BE%D0%BD%D1%87-%D0%9E%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B8%20%D0%9D%D0%B5%D1%81%D1%82%D0%B5%D1%80%D0%B5%D0%BD%D0%BA%D0%BE.pdf) // ЕВРика! Сборник статей о поисках и находках к юбилею Е.В. Рахилиной / Под общ. ред.: Д. А. Рыжова, Н. Р. Добрушина, А. А. Бонч-Осмоловская, А. С. Выренкова, М. В. Кюсева, Б. В. Орехов, Т. И. Резникова. М. : Лабиринт, 2018. С. 305–320.
+* Орехов Б. В., Успенский П. Ф., Файнберг В. В. [Цифровые подходы к Камер-фурьерскому журналу В. Ф. Ходасевича](http://nevmenandr.net/personalia/KFZh2018.pdf) // Русская литература. 2018. № 3. С. 19–53.
+* Орехов Б. В. [В сети терминов М. М. Бахтина: теория графов о диалоге, карнавале и хронотопе](http://nevmenandr.net/dkx/pdf/n45-105-115.pdf) // Диалог. Карнавал. Хронотоп. 2018. № 1. С. 105–115.
+* Орехов Б. В. [Что может рассказать теория графов о терминологической системе О. М. Фрейденберг](https://history.rsuh.ru/jour/article/view/292) // Вестник РГГУ. Серия «История. Филология. Культурология. Востоковедение». 2017. № 4. С. 89–98.
+* Орехов Б. В. [Гуманитарная терминология как сеть: теория графов о закономерностях научного стиля](http://nevmenandr.net/personalia/82517678.pdf) // Критика и семиотика. 2016. № 2. С. 94–101.
 
+#### Видео
+
+* Б. В. Орехов, П. Ф. Успенский, В. В. Файнберг «[Исследование эмигрантских сетей методами сетевого анализа](https://vk.com/video-139461971_456239037)»
+
+#### Сети
+
+* Сеть писателей XVIII века: [веб-приложение](https://nevmenandr.github.io/rus-dict18-persons/), [данные](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2022.1-B002).
+* [Русские эмигранты](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2020.05-B001)
 
 ## Python
 
@@ -150,11 +163,17 @@
 
 #### Популярные выступления
 
-* Орехов Б. В. [Python](https://okna.hse.ru/news/218099432.html) // Окна академического роста. 12.4.2018
+* Орехов Б. В. [Python](https://okna.hse.ru/news/218099432.html) // Окна академического роста. 12.4.2018.
 
 ## Машинное обучение
 
-Anastasia Bonch-Osmolovskaya, Elena Sidorova, Daniil Skorinkin. Verbal Identity of a Fictional Character: a Quantitative Study with a Machine Learning Experiment, in: Digital Humanities 2016. Conference Abstracts (Jagiellonian University & Pedagogical University, Kraków, 11–16 July 2016). Kraków : , 2016. P. 747-749.
+* Орехов Б. В. [Соизмеримость стиховых сегментов: проверка машинным обучением](http://nevmenandr.net/personalia/K_02-169-176.pdf) // Язык художественной литературы: традиционные и современные методы исследования. Материалы международной научной конференции памяти Н. А. Кожевниковой. М.: «Азбуковник», 2016. С. 425–432.
+* Anastasia Bonch-Osmolovskaya, Elena Sidorova, Daniil Skorinkin [Verbal Identity of a Fictional Character: a Quantitative Study with a Machine Learning Experiment](https://dh-abstracts.library.virginia.edu/works/2527) // Digital Humanities 2016. Conference Abstracts (Jagiellonian University & Pedagogical University, Kraków, 11–16 July 2016). Kraków, 2016. P. 747–749.
+
+#### Видео
+
+* Борис Орехов [Как машинное обучение используется в гуманитарных науках](https://www.youtube.com/watch?v=pfSdyOLf1pA)
+* Борис Орехов [Неисследованные горизонты силлабо-тоники](https://www.youtube.com/watch?v=w3Z2AcjCsEE)
 
 ## Общие вопросы искусственного интеллекта
 
@@ -162,7 +181,8 @@ Anastasia Bonch-Osmolovskaya, Elena Sidorova, Daniil Skorinkin. Verbal Identity 
 
 ## Геоинформационные системы в гуманитарной сфере
 
-
-*  Geography Of Russian Poetry: Countries And Cities Inside The Poetic World // Digital Humanities 2016. Conference Abstracts. Kraków, 2016. — P. 830–832.
+*  Geography Of Russian Poetry: Countries And Cities Inside The Poetic World // Digital Humanities 2016. Conference Abstracts. Kraków, 2016. P. 830–832.
+  
+## Обучение Digital Humanities
 
 ## Музейные данные
