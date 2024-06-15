@@ -245,6 +245,8 @@
 
 ## Обучение Digital Humanities
 
+* Ольга Алиева [Компьютерный анализ текста в R](https://locusclassicus.github.io/text_analysis_2023/)
+
 #### Видео
 
 * Борис Орехов [Парадоксы парадигмы: концептуальные и практические трудности цифровой гуманитарной магистратуры](https://www.youtube.com/watch?v=ZfXqvIzl5fo)
