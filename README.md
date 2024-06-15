@@ -14,12 +14,12 @@
 
 ## Общие вопросы Digital Humanities
 
-* [Глава 1. Digital humanities: (само)определение, обзор направлений](https://bik.sfu-kras.ru/ft/LIB2/ELIB/b71/free/i-494468.pdf) (Б. В. Орехов, А. Ю. Володин) // Цифровые гуманитарные исследования: монография / А. Б. Антопольский, А. А. Бонч-­Осмоловская, Л. И. Бородкин [и др.]. — Красноярск: Сиб. федер. ун-­т, 2023. —  С. 5–20.
-* Kizhner I., Terras M., Orekhov B., Manovich L., Kim I., Rumyantsev M., Bonch-Osmolovskaya A. [The History and Context of the Digital Humanities in Russia](http://nevmenandr.net/personalia/GlobalDDH.pdf) // Global Debates in the Digital Humanities / ed. Domenico Fiormonte, Paola Ricaurte, Sukanta Chaudhuri. University of Minnesota Press, 2022. — P. 55–70.
+* [Глава 1. Digital humanities: (само)определение, обзор направлений](https://bik.sfu-kras.ru/ft/LIB2/ELIB/b71/free/i-494468.pdf) (Б. В. Орехов, А. Ю. Володин) // Цифровые гуманитарные исследования: монография / А. Б. Антопольский, А. А. Бонч-­Осмоловская, Л. И. Бородкин [и др.]. Красноярск: Сиб. федер. ун-­т, 2023. С. 5–20.
+* Kizhner I., Terras M., Orekhov B., Manovich L., Kim I., Rumyantsev M., Bonch-Osmolovskaya A. [The History and Context of the Digital Humanities in Russia](http://nevmenandr.net/personalia/GlobalDDH.pdf) // Global Debates in the Digital Humanities / ed. Domenico Fiormonte, Paola Ricaurte, Sukanta Chaudhuri. University of Minnesota Press, 2022. P. 55–70.
 
 ### Видео
 
-* Борис Орехов «[Digital Humanities в общенаучном контексте]»(https://www.youtube.com/watch?v=-0GTkiUr9Ys)
+* Борис Орехов «[Digital Humanities в общенаучном контексте](https://www.youtube.com/watch?v=-0GTkiUr9Ys)»
 * Ольга Алиева, Борис Орехов [Цифровые инструменты и методы: в чем их польза и как им обучить гуманитария?](https://vk.com/video-211800158_456239307)
 * Анастасия Бонч-Осмоловская, Борис Орехов [Презентация коллективной монографии Цифровые гуманитарные исследования](https://www.youtube.com/watch?v=z5Hiai8h9bk)
 * Борис Орехов [Чем может и чем не может наука о данных помочь науке о литературе](https://www.youtube.com/watch?v=o96OzsKqIyY)
@@ -33,6 +33,19 @@
 
 ## Стилометрия и атрибуция
 
+* Алиева О. В. [Delta Берроуза для древнегреческих авторов: опыт применения](http://doi.org/10.25205/1995-4328-2022-16-2-693-705) // Schole. Философское антиковедение и классическая традиция. 2022. Т. 16. № 2. С. 693-705
+* Алиева О. В. [Опыт измерения стилистической однородности методом Delta на материале Платоновского корпуса](http://doi.org/10.53084/22209050_2022_25_19) // Аристей. Aristeas: Вестник классической филологии и античной истории. 2022. Т. 25. С. 19-37.
+* Skorinkin D., Orekhov B. [Hacking stylometry with multiple voices: Imaginary writers can override authorial signal in Delta](https://academic.oup.com/dsh/advance-article-abstract/doi/10.1093/llc/fqad012/7111263) // Digital Scholarship in the Humanities. 2023. Volume 38, Issue 3. P. 1247–1266. 
+
+### Видео
+
+* Ольга Алиева [Стилометрия](https://www.youtube.com/watch?v=EoyVIDwjsuE)
+
+### Популярные выступления
+
+* Борис Орехов [Атрибуция текста: теория и практика](https://postnauka.ru/faq/99046) // ПостНаука. 27.6.2019.
+
+  
 ## Тематическое моделирование
 
 ## Векторные модели
