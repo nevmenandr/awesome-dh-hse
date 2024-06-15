@@ -192,6 +192,7 @@
 ## Машинное обучение
 
 * Орехов Б. В. [Соизмеримость стиховых сегментов: проверка машинным обучением](http://nevmenandr.net/personalia/K_02-169-176.pdf) // Язык художественной литературы: традиционные и современные методы исследования. Материалы международной научной конференции памяти Н. А. Кожевниковой. М.: «Азбуковник», 2016. С. 425–432.
+* Орехов Б. В. [Почему ошибался Жуковский: о внутритекстовых причинах метрических сбоев в «Одиссее»](http://nevmenandr.net/personalia/Zhukovsky.pdf) // М. Л. Гаспарову — стиховеду. In Memoriam. / Сост. Акимова М. В., Тарлинская М. Г. М.: Языки славянской культуры, 2017. С. 73–89.
 * Anastasia Bonch-Osmolovskaya, Elena Sidorova, Daniil Skorinkin [Verbal Identity of a Fictional Character: a Quantitative Study with a Machine Learning Experiment](https://dh-abstracts.library.virginia.edu/works/2527) // Digital Humanities 2016. Conference Abstracts (Jagiellonian University & Pedagogical University, Kraków, 11–16 July 2016). Kraków, 2016. P. 747–749.
 
 #### Видео
