@@ -132,6 +132,7 @@
 #### Популярные выступления
 
 * Борис Орехов [Векторные романы](https://nevmenandr.github.io/novel2vec/)
+* Борис Орехов [Что такое векторные модели и как можно их использовать](https://gramota.ru/journal/stati/tekhnologii/chto-takoe-vektornye-modeli-i-kak-mozhno-ikh-ispolzovat)
 
 ## Цифровые издания
 
