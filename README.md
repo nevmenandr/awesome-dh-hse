@@ -1,6 +1,6 @@
 # Awesome список публикаций и выступлений по DH преподавателей магистратуры НИУ ВШЭ 😎
 
-[![Awesome](badge-flat2.svg)](https://github.com/sindresorhus/awesome) ![](pr.svg)
+[![Awesome](badge-flat2.svg)](https://github.com/sindresorhus/awesome) 
 
 ## Про что этот список
 
