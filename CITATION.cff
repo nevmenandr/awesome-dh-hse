@@ -10,7 +10,6 @@ type: dataset
 authors:
   - given-names: Boris
     family-names: Orekhov
-    name-particle: Boris Orekhov
     email: nevmenandr@gmail.com
     affiliation: HSE University
     orcid: 'https://orcid.org/0000-0002-9099-0436'
