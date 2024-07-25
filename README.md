@@ -91,7 +91,9 @@
 * Орехов Б. В. [Текст и перевод Владимира Набокова через призму стилеметрии](http://nevmenandr.net/personalia/nabokov_transl.pdf) // Новый филологический вестник. 2021. № 3. С. 200–213.
 * Орехов Б. В. [«Илиада» Е.И. Кострова и «Илиада» А. И. Любжина: стилеметрический аспект](http://nevmenandr.net/personalia/aristeas.pdf) // Аристей. Aristeas: Вестник классической филологии и античной истории. 2020. Т. XXI. С. 282–296.
 * Скоринкин Д. А., Бонч-Осмоловская А. А. [«Особые приметы» в речи художественных персонажей: количественный анализ диалогов в «Войне и мире» Л. Н. Толстого](https://history.jes.su/s207987840001649-2-1) // Электронный научно-образовательный журнал "История". 2016. Т. 7. № 7 (51)
-* Skorinkin D., Orekhov B. [Hacking stylometry with multiple voices: Imaginary writers can override authorial signal in Delta](https://academic.oup.com/dsh/advance-article-abstract/doi/10.1093/llc/fqad012/7111263) // Digital Scholarship in the Humanities. 2023. Volume 38, Issue 3. P. 1247–1266. 
+* Skorinkin D., Orekhov B. [Hacking stylometry with multiple voices: Imaginary writers can override authorial signal in Delta](https://academic.oup.com/dsh/advance-article-abstract/doi/10.1093/llc/fqad012/7111263) // Digital Scholarship in the Humanities. 2023. Volume 38, Issue 3. P. 1247–1266.
+* Orekhov, Boris. ‘[How does Burrows' Delta work on medieval Chinese poetic texts?](https://arxiv.org/abs/2407.08099)’. ArXiv [Cs.CL], 2024. arXiv. https://arxiv.org/abs/2407.08099.
+* Orekhov, Boris. ‘[Does Burrows' Delta really confirm that Rowling and Galbraith are the same author?](https://arxiv.org/abs/2407.10301)’. ArXiv [Cs.CL], 2024. arXiv. https://arxiv.org/abs/2407.10301.
 
 #### Видео
 
