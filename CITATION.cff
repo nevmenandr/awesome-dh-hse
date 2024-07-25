@@ -1,0 +1,41 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Digital Humanities publications of HSE DH MA program
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Boris
+    family-names: Orekhov
+    name-particle: Boris Orekhov
+    email: nevmenandr@gmail.com
+    affiliation: HSE University
+    orcid: 'https://orcid.org/0000-0002-9099-0436'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.12813868
+repository-code: 'https://github.com/nevmenandr/awesome-dh-hse'
+abstract: >-
+  Здесь содержится разбитый по рубрикам список тематических
+  публикаций и выступлений преподавателей магистерской
+  программы Цифровые методы в гуманитарных науках (Digital
+  Humanities) НИУ ВШЭ. Преподаватели программы: Ольга
+  Алиева, настасия Бонч-Осмоловская, Борис Орехов
+keywords:
+  - Digital Humanities
+  - DH
+  - corpus
+  - stylometry
+  - topic modeling
+  - word2vec
+  - digital edition
+  - culturomics
+  - network analysis
+  - machine learning
+license: GPL-3.0
+commit: 68e258d08baa96464a7cd9bcc2f13d803d83a4be
+version: 1.0.0
+date-released: '2024-06-21'
