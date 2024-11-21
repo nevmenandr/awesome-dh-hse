@@ -38,6 +38,7 @@
 
 * [Глава 1. Digital humanities: (само)определение, обзор направлений](https://bik.sfu-kras.ru/ft/LIB2/ELIB/b71/free/i-494468.pdf) (Б. В. Орехов, А. Ю. Володин) // Цифровые гуманитарные исследования: монография / А. Б. Антопольский, А. А. Бонч-­Осмоловская, Л. И. Бородкин [и др.]. Красноярск: Сиб. федер. ун-­т, 2023. С. 5–20.
 * Северина Е. М., Бонч-Осмоловская А. А., Бец Ю. В., Флягина М. В. [Цифровые гуманитарные проекты: проблемы междисциплинарности](https://cyberleninka.ru/article/n/tsifrovye-gumanitarnye-proekty-praktiki-mezhdistsiplinarnosti) // Гуманитарные и социальные науки. 2021. Т. 88. № 5. С. 121-129.
+*  Орехов Б. В., Володин А. Ю. [Digital Humanities в России и конец истории](http://nevmenandr.net/personalia/cgi-endhistory.pdf) // Цифровые гуманитарные исследования. 2024. № 1. С. 63–85.
 * Kizhner I., Terras M., Orekhov B., Manovich L., Kim I., Rumyantsev M., Bonch-Osmolovskaya A. [The History and Context of the Digital Humanities in Russia](http://nevmenandr.net/personalia/GlobalDDH.pdf) // Global Debates in the Digital Humanities / ed. Domenico Fiormonte, Paola Ricaurte, Sukanta Chaudhuri. University of Minnesota Press, 2022. P. 55–70.
 
 #### Видео 🎥
