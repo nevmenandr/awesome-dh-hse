@@ -265,9 +265,15 @@
 
 ## Геоинформационные системы в гуманитарной сфере
 
+* Skorinkin D., Orekhov B. [The Outward Turn. Geocoding the Expansion of Fictional Space in Russian 19th-Century Literature](https://jcls.io/article/id/4228/) // Journal of Computational Literary Studies. 2025. Vol. 4. Issue 1. DOI: 10.48694/jcls.4228
 * Корчмина Е. С., Орехов Б. В. [Использование интерактивных карт при изучении истории налогов в России XVIII в.](http://nevmenandr.net/personalia/mapfisc.pdf) // Информационный бюллетень Ассоциации история и компьютер. 2014. № 42. С. 138–139. [Карта](http://nevmenandr.net/pages/fiscmap.php).
 * Sitchinava D., Orekhov B. [The Poetic Corpus of Russian: Where the Poems are Written](http://nevmenandr.net/personalia/wien2018.pdf) // Corpus-Based Research in the Humanities, 2018. P. 201–205.
 * Kuzmenko E., Orekhov B. [Geography Of Russian Poetry: Countries And Cities Inside The Poetic World](https://dh-abstracts.library.virginia.edu/works/2435) // Digital Humanities 2016. Conference Abstracts. Kraków, 2016. P. 830–832.
+
+#### Данные
+
+* Орехов, Борис, 2024, "[Маршрут путешествия в поэме И. П. Мятлева «Сенсации и замечания госпожи Курдюковой за границею, дан л'этранже»](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2023.4-G003&version=1.0)", https://doi.org/10.31860/openlit-2023.4-G003, Репозиторий открытых данных по русской литературе и фольклору, V1.
+* Orekhov, Boris V, and Daniil Skorinkin. 2024. “[Geocoding of Russian Prose of the 19th Century](https://osf.io/cavu9/).” OSF. July 14. doi:10.17605/OSF.IO/CAVU9.
 
 ## Обучение Digital Humanities
 
