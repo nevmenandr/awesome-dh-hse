@@ -1,5 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12813868.svg)](https://doi.org/10.5281/zenodo.12813868)
 
+
 # Awesome список публикаций и выступлений по Digital Humanities преподавателей магистратуры НИУ ВШЭ 😎
 
 [![Awesome](badge-flat2.svg)](https://github.com/sindresorhus/awesome) 
